@@ -25,7 +25,7 @@ def main(program):
                 quit()
             else:
                 print(Fore.RED + "[!] Invalid input." + Style.RESET_ALL)
-    except KeyboardInterrupt:
+    except:
         quit()
 
 # Installing packages if they are not installed
