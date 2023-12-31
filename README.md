@@ -5,9 +5,9 @@ Download the repo:
 ```bash
 git clone https://github.com/luddekn/arch-proxychains
 ```
-Download the script requirements:
+Download colorama:
 ```bash
-pip3 install -r requirements.txt
+sudo pacman -Sy python-colorama
 ```
 ## Usage example
 ```bash
