@@ -8,7 +8,7 @@ sudo nano /etc/proxychains.conf
 ## Installation
 Download the repo:
 ```bash
-git clone https://github.com/luddekn/arch-proxychains
+git clone https://github.com/ludvikkristoffersen/arch-proxychains.git
 ```
 Download colorama:
 ```bash
